@@ -1,0 +1,196 @@
+commit 1b03556214126a04ea32c261b748e8c7b67d3535
+Author: Pamfilos <pamfilosf@gmail.com>
+Date:   Thu Jun 14 16:07:07 2018 +0200
+
+    Best wishes and good luck for the future
+    
+    Jakoboo
+    It was really great meeting you and working with you here at CERN.
+    I wish you all the best for your future endeveaours and that we'l
+    meet again at some point! Enjoy your next steps and farewell!!
+    
+    Signed-off-by: Pamfilos
+
+commit a8efc80d863a7aca9b784e443cefa055e91d8055
+Author: Ania <trzcinska.ania@gmail.com>
+Date:   Thu Jun 14 16:05:44 2018 +0200
+
+    Wishing you all the best
+    
+    It was really nice to meet you and it's a sad news that you want to leave us, but well.. Hope (and I'm sure!), you'll be really happy wherever you go next. Maybe not surrounded by so many great people, but still ;) All the best! <3
+    
+    -Ania
+
+commit 6d6c19e0f10eb4cf05906b6013e5cb94695f8db5
+Author: Aidan Sedgewick <aidansedgewick203@gmail.com>
+Date:   Thu Jun 14 15:46:21 2018 +0200
+
+    Thanks for teaching us about word embeddings!!
+    
+    Hey Jacopo!  It was great to meet and work with you! Hope you get to use
+    lots of machine learning wherever you go next! :P
+    
+    Signed-off-by: Aidan Sedgewick <aidansedgewick203@gmail.com>
+    Co-Authored-by: Andrew Blance <andrewblance@live.co.uk> and
+    Co-Authored-by: Parisa Gregg <parisa.gregg@gmail.com>
+
+commit 715ca99ffea78b673611dd7f9f1db21b663fb8ce
+Author: Victor Balbuena Pantigas <vbalbp@gmail.com>
+Date:   Thu Jun 14 14:24:50 2018 +0200
+
+    friendship: recognize `jacquerie` as PERMITTED_USERS
+    
+    There was a bug that caused `jacquerie` to not recognized by the
+    `friendship` module. This caused the system to fail as `jacquerie`
+    provided necessary functions to the completion of basic tasks by
+    the `vbalbp` module. Also added a docstring thanking `jacquerie`
+    for all the help.
+    
+    Signed-off-by: Victor Balbuena Pantigas <vbalbp@gmail.com>
+
+commit 2a148f0ad4a70899f661c7e823ebf8b9998612ca
+Author: Antonio Cesarano <cesarano2607@gmail.com>
+Date:   Thu Jun 14 13:09:43 2018 +0200
+
+    arrivederci: make a cool card and say goodby to Jacopo
+    
+    Hey Jaco,
+    
+    no sad phrases or `miss u` from my side, only a big `Thanks` for
+    all the effort put in making our project and our team better,
+    for the lessons learned and the great off-topic chats we have had.
+    Remember, you've made the difference here.
+    
+    See you soon.
+    
+    P.S. I proudly claim the card idea, hope you like it!
+    
+    Signed-off-by: Antonio Cesarano <cesarano2607@gmail.com>
+
+commit 841edc21a9b35828c7034704db12bbb5399cd514
+Author: Iuliana Voinea <iulianavoinea96@gmail.com>
+Date:   Thu Jun 14 11:18:05 2018 +0200
+
+    Moshi moshi, capo!
+    
+    The day has come and I have to part ways with my very first proper
+    supervisor, but not without having learnt so much from you! Thank
+    you for always having the patience to explain the sillies things in
+    detail, encouraging me to reach my full potential, boosting my self
+    confidence and sharing with me all those great resources with an
+    enthusiasm that is contagious. Our occasional talks on anime, music,
+    Japan and other similar topics were also quite epic I would say and
+    will sure be remembered xD!
+    
+    I wish you lots of luck in the future and I hope you will end up in
+    a team comprised of passionate people that share your vision and
+    ethos regarding work! You are one of the smartest, most competent
+    people I have ever met and I know you'll find other minions to help
+    you keep spreading the knowledge ;)! Good luck and I hope we'll keep
+    in touch!
+    
+    Signed-off-by: Iuliana Voinea <iulianavoinea96@gmail.com>
+
+commit b408e6b8e3934f903dc36e4d1179f577103bfbf3
+Author: Micha Moskovic <michamos@gmail.com>
+Date:   Thu Jun 14 11:04:17 2018 +0200
+
+    jacquerie: put module in its own package
+    
+    The jacquerie module has been part of inspire-next for a long time and
+    has been a foundation of many of its core functionalities.  Its builtin
+    linter had a tendency of being very strict and printing angry messages.
+    However, it also provided very valuable and entertaining information and
+    will be missed.
+    
+    As an independent package, the module will hopefully be maintained by a
+    new team so that it can be deployed in a proper environment, either
+    on premise or in the cloud.
+    
+    In the future, the module will be rewritten in C++ on a mechanical
+    keyboard using algorithms with optimal complexity.
+    
+    Signed-off-by: Micha Moskovic <michamos@gmail.com>
+
+commit cabf3ca1373a01c7e6e69a51612b06a1c7579111
+Author: Harris <me@drjova.com>
+Date:   Thu Jun 14 10:55:42 2018 +0200
+
+    Hey man,
+    
+    It was great working with you, even though it was a very short period.
+    We never did the hackathon for workflows :P but don't worry we'll replace
+    them soon!
+    
+    I wish you all the very best for the future and hope you'll
+    invite me for a tour at Google.
+    
+    Best,
+    Harris
+
+commit e7a6262e37dac70638665a5672210a891dbd5f75
+Author: Paolo <puntonim@gmail.com>
+Date:   Thu Jun 14 10:51:25 2018 +0200
+
+    My friend,
+    
+    it was exciting, at times :P, working with you.
+    Thanks for the great contribution you gave to CERN
+    and for everything you taught me.
+    Good luck for your next adventures and keep up with
+    the positiveness and the small PRs.
+    
+    Signed-off-by: Paolo <puntonim@gmail.com>
+
+commit 969f0239301b3eb46ea6f143d22e29597c264860
+Author: David Caro <david@dcaro.es>
+Date:   Thu Jun 14 10:47:50 2018 +0200
+
+    release: 0.99_really_last.2.Final
+    
+        * INCOMPATIBLE: After all these years of working together, and trying to
+          push good stuff, it's always sad to say goodbye. Even though things have
+          not gone the way you planned, your contributions to the project are and
+          will be valued, and for sure you will be missed.
+    
+    It was good to be able to learn from one of the best programmers I've known
+    
+    Signed-off-by: David Caro <david@dcaro.es>
+
+commit a8a4c3300171abf7c84b2b1770f9e15643548699
+Author: Szymon Łopaciuk <szymon@lopaciuk.eu>
+Date:   Thu Jun 14 10:45:00 2018 +0200
+
+    All the best, Jacopo!
+    
+    It was a pleasure working with you all those months, and as you
+    were my first (albeit unofficial) supervisor, I am especially
+    grateful for you welcoming me to the team. As sad as it might be
+    to see you go, I sincerely hope that wherever you'll end up,
+    you'll be appreciated as you're definitely one of the smartest
+    humans I've met (:
+    
+    So I wish you all the best, and also concur what Dinika said:
+    don't be a stranger... and we need to see that youtube channel!
+    
+    Signed-off-by: Szymon Łopaciuk <szymon@lopaciuk.eu>
+
+commit 8871ce22750198ee9feec01d63eb28f63773cb96
+Author: Dinika Saxena <dinikasaxenas@gmail.com>
+Date:   Thu Jun 14 10:02:32 2018 +0200
+
+    Looking forward to the youtube videos
+    
+    Heyo Jacopo
+    I still don't see any new uploads on your channel. If you were
+    staying here longer I would make another bet with you and most
+    certainly win that one too. Ooh if you're still looking for song
+    suggestions check out 'The walls came down' by The Call.
+    I will miss you Jacopo. Thanks for teaching me all those git (and
+    so many other) things so patiently. I wish you all the happiness
+    and good luck (not that you need it). Don't be a stranger, okay
+    - shoot a message sometime.
+    
+    A big hug to you
+    
+    Signed-off-by: Dinika Saxena <dinika.saxena@cern.ch>
